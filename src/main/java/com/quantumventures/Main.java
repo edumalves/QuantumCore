@@ -1,4 +1,4 @@
-package com.quantumfinance;
+package com.quantumventures;
 
 public class Main {
     public static void main(String[] args) {
