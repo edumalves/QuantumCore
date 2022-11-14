@@ -76,7 +76,7 @@
                         <configuration>
                             <archive>
                                 <manifest>
-                                    <mainClass>com.quantumventures.Main</mainClass>
+                                    <mainClass>com.quantumventures.QuantumCore</mainClass>
                                 </manifest>
                             </archive>
                             <descriptorRefs>
